@@ -12,4 +12,8 @@
 
 ## Breve explicação do código
 
+## Simulação
+
+A simulação foi feita no site [Wokwi](https://wokwi.com/) e pode ser acessada [clicando aqui](https://wokwi.com/projects/370972704596368385)
+
 ## Referências
